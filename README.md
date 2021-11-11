@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Marcus Vinícius
+- 👀 I’m interested in I.A. and Cyber Security
+- 🌱 I’m currently learning Computer Science
